@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝕃𝕦𝕔𝕒𝕤 💣
+# 𝕍𝕠𝕤𝕤🥷
 ### COMPUTATIONAL FUTURIST 🛰️
 
 **Agentic AI · Spatial Computing · DePIN · Autonomous Infrastructure**
