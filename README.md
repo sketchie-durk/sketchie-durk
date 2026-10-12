@@ -530,6 +530,6 @@ Repositories are experiments, implementations, infrastructure studies and comput
 
 `SENSE • MODEL • REASON • ACT • VERIFY • ADAPT`
 
-**𝕃𝕦𝕔𝕒𝕤 💣 · COMPUTATION BEYOND THE INTERFACE**
+**𝕍𝕠𝕤𝕤🥷 · COMPUTATION BEYOND THE INTERFACE**
 
 </div>
